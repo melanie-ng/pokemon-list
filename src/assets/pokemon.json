@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "pokemon": "grookey", 
+        "pokeball": "poke-ball", 
+        "shiny": 0,
+        "nature": "adamant", 
+        "ability": "grassy-surge", 
+        "moves": [ "leech-seed", "hammer-arm", "fake-out", "growth" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
+    },
+    {
+        "id": 2,
+        "pokemon": "scorbunny", 
+        "pokeball": "poke-ball", 
+        "shiny": 0,
+        "nature": "jolly", 
+        "ability": "libero", 
+        "moves": [ "sucker-punch", "super-fang", "high-jump-kick", "sand-attack" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
+    },
+    {
+        "id": 3,
+        "pokemon": "sobble", 
+        "pokeball": "poke-ball", 
+        "shiny": 1,
+        "nature": "modest", 
+        "ability": "sniper", 
+        "moves": [ "aqua-jet", "ice-shard", "haze", "mist" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/816.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
+    },
+    {
+        "id": 4,
+        "pokemon": "yamask", 
+        "pokeball": "moon-ball", 
+        "shiny": 0,
+        "nature": "modest", 
+        "ability": "mummy", 
+        "moves": [ "astonish", "protect", "memento", "n/a" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png"
+    },
+    {
+        "id": 5,
+        "pokemon": "phantump", 
+        "pokeball": "moon-ball", 
+        "shiny": 0,
+        "nature": "adamant", 
+        "ability": "harvest", 
+        "moves": [ "tackle", "disable", "grudge", "sucker-punch" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png"
+    },
+    {
+        "id": 6,
+        "pokemon": "sinistea", 
+        "pokeball": "moon-ball", 
+        "shiny": 0,
+        "nature": "timid", 
+        "ability": "cursed-body", 
+        "moves": [ "astonish", "withdraw", "n/a", "n/a" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/854.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png"
+    },
+    {
+        "id": 7,
+        "pokemon": "cufant", 
+        "pokeball": "heavy-ball", 
+        "shiny": 0,
+        "nature": "adamant", 
+        "ability": "heavy-metal", 
+        "moves": [ "double-edge", "whirlwind", "fissure", "curse" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heavy-ball.png"
+    },
+    {
+        "id": 8,
+        "pokemon": "snom", 
+        "pokeball": "safari-ball", 
+        "shiny": 0,
+        "nature": "timid", 
+        "ability": "ice-scales", 
+        "moves": [ "struggle-bug", "fairy-wind", "bug-bite", "mirror-coat" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/872.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safari-ball.png"
+    },
+    {
+        "id": 9,
+        "pokemon": "pyukumuku", 
+        "pokeball": "safari-ball", 
+        "shiny": 0,
+        "nature": "timid", 
+        "ability": "unaware", 
+        "moves": [ "swagger", "spite", "mirror-coat", "tickle" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safari-ball.png"
+    },
+    {
+        "id": 10,
+        "pokemon": "pincurchin", 
+        "pokeball": "safari-ball", 
+        "shiny": 0,
+        "nature": "quiet", 
+        "ability": "electric-surge", 
+        "moves": [ "peck", "thunder-shock", "sucker-punch", "memento" ],
+        "status": "obtained",
+        "pokemonSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png",
+        "pokeballSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safari-ball.png"
+    }
+]
